@@ -1,0 +1,3 @@
+Estos son estilos css
+que pondremos a prueba a ver q nos salen
+bien comenzemos ahora
